@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jabez Greenan 👋
 
-<!--
-**Jabezgreenan/Jabezgreenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer from South Africa, passionate about building modern web applications and continuously improving my skills.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React
+* Node.js
+* Express.js
+* EJS
+* Bootstrap
+* Git & GitHub
+* REST APIs
+* PostgreSQL
+* SQL
+
+## Contact
+
+📧 [jabezgreenan@gmail.com](mailto:jabezgreenan@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/jabez-greenan-60b434271/
