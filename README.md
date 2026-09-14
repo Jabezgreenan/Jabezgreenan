@@ -107,11 +107,7 @@ Some of the projects I've worked on can be found in my repositories. I'm continu
 
 ## 🤝 Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/jabez-greenan-60b434271">
-    <img src="https://img.shields.io/badge/LinkedIn-Jabez%20Greenan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
+<p> <a href="mailto:jabezgreenan@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://linkedin.com/in/jabez-greenan-60b434271"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"> </a> </p>
 
 ---
 
