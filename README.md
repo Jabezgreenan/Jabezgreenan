@@ -49,7 +49,7 @@ I enjoy creating websites and applications and I'm always looking for opportunit
 ### ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,ejs" alt="Backend Technologies">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask" alt="Backend Technologies">
 </p>
 
 ### 🗄️ Databases & Backend Services
