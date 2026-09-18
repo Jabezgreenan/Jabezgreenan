@@ -34,37 +34,49 @@ I enjoy creating websites and applications and I'm always looking for opportunit
 
 ## 🧰 Languages & Tools
 
-### Frontend
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,jquery,tailwind,bootstrap,nextjs,vite" alt="Frontend Technologies">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" alt="Languages">
 </p>
 
-### Backend
+### 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,ejs" alt="Backend Technologies">
+  <img src="https://skillicons.dev/icons?i=react,vite,jquery,tailwind,bootstrap,nextjs" alt="Frontend Technologies">
 </p>
 
-### Databases & Backend Services
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,ejs" alt="Backend Technologies">
+</p>
+
+### 🗄️ Databases & Backend Services
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase" alt="Databases and Backend Services">
 </p>
 
-### APIs & Development
+### 🔌 APIs & Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=graphql,postman,prisma,sequelize" alt="APIs and Development Technologies">
 </p>
 
-### Tools & DevOps
+### 🐍 Python & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,selenium" alt="Python and Data Technologies">
+</p>
+
+### 🛠️ Tools & DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,npm,docker,aws,vercel,netlify,linux,bash,vscode" alt="Development Tools and DevOps">
 </p>
 
-### Design & Other Technologies
+### 🎨 Design & Other Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,webflow" alt="Design and Other Technologies">
