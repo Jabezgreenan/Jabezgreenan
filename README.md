@@ -1,10 +1,9 @@
 <h1 align="center">🕹️Jabez Greenan</h1>
 
-<h3 align="center">Full-Stack Developer | Web Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-  I enjoy building websites and applications, learning new technologies,<br>
-  and turning ideas into useful, working projects.
+  I build responsive, modern websites and web applications using React, JavaScript, TypeScript, HTML, CSS, and Tailwind CSS.
 </p>
 
 <p align="center">
@@ -20,30 +19,89 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer**.
+I'm a **Frontend Developer** focused on building responsive, modern, and user-friendly websites and web applications.
 
-I enjoy creating websites and applications and I'm always looking for opportunities to improve my skills. I like learning new technologies, experimenting with different tools, and building projects that help me understand how things work.
+I enjoy turning ideas and designs into functional interfaces and building projects that help me improve my development skills.
 
-* 💻 Full-Stack Web Developer
-* 🌱 Always learning new technologies and development practices
-* 🛠️ Enjoy building projects and experimenting with new ideas
-* 🎨 Interested in both frontend and backend development
-* 🚀 Always looking for the next thing to build
+* 💻 Frontend Developer
+* ⚛️ React & JavaScript
+* 🟦 TypeScript
+* 🎨 HTML, CSS & Tailwind CSS
+* 🔧 Git & GitHub for version control
+* 🚀 Building and deploying web projects
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Tech Stack
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" alt="Frontend Technologies">
+</p>
+
+<p align="center">
+  HTML • CSS • JavaScript • TypeScript • React • Vite • Tailwind CSS
+</p>
+
+### 🛠️ Version Control & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode" alt="Development Tools">
+</p>
+
+<p align="center">
+  Git • GitHub • npm • VS Code
+</p>
+
+---
+
+## 🚀 Latest Work
+
+I enjoy learning by building real projects and continuously adding new work to my GitHub.
+
+### 🎥 Jovan Videography Website
+
+A modern responsive website built for a videographer, focusing on clean UI, responsive layouts, and presenting services and portfolio work professionally.
+
+**Built with:** React • TypeScript • Tailwind CSS
+
+🔗 [Live Website](https://jovan-videography-site.vercel.app/)
+🔗 [GitHub Repository](https://github.com/Jabezgreenan/jovan-videography-site)
+
+### 🏡 Camelot Country Lodge
+
+A responsive website created for Camelot Country Lodge, with a focus on presenting accommodation information, services, and contact options through a professional web experience.
+
+**Built with:** HTML • CSS • JavaScript
+
+🔗 [GitHub Repository](https://github.com/Jabezgreenan/camelot-country-lodge)
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio showcasing my projects, skills, and development work.
+
+**Built with:** HTML • CSS • JavaScript
+
+🔗 [Live Portfolio](https://personal-site-js.netlify.app/)
+🔗 [GitHub Repository](https://github.com/Jabezgreenan/personal-site-js)
+
+---
+
+## 📚 Additional Technologies
+
+Technologies I've worked with through projects, courses, and development experience.
 
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=py" alt="Python">
 </p>
 
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,jquery,tailwind,bootstrap,nextjs" alt="Frontend Technologies">
+  <img src="https://skillicons.dev/icons?i=jquery,bootstrap,nextjs" alt="Additional Frontend Technologies">
 </p>
 
 ### ⚙️ Backend
@@ -70,10 +128,16 @@ I enjoy creating websites and applications and I'm always looking for opportunit
   <img src="https://skillicons.dev/icons?i=sklearn,selenium" alt="Python and Data Technologies">
 </p>
 
-### 🛠️ Tools & DevOps
+### ☁️ Cloud & Deployment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,docker,aws,vercel,netlify,linux,bash,vscode" alt="Development Tools and DevOps">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify" alt="Cloud and Deployment Technologies">
+</p>
+
+### 🛠️ Other Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash" alt="Other Development Tools">
 </p>
 
 ### 🎨 Design & Other Technologies
@@ -82,33 +146,20 @@ I enjoy creating websites and applications and I'm always looking for opportunit
   <img src="https://skillicons.dev/icons?i=figma,ps,webflow" alt="Design and Other Technologies">
 </p>
 
-
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Developing
 
-I'm constantly working on improving my development skills and expanding the technologies I can work with.
+I'm continuing to improve my frontend development skills with a focus on:
 
-Some areas I'm focusing on include:
-
-* ⚛️ React & modern frontend development
+* ⚛️ React
 * 🟦 TypeScript
-* 🌐 Full-stack application development
-* 🗄️ Databases & backend development
-* ☁️ Cloud technologies
-* 🔐 Web security & development best practices
-
----
-
-## 🚀 Projects
-
-I enjoy learning by building.
-
-Some of the projects I've worked on can be found in my repositories. I'm continually adding new projects as I learn new technologies and develop my skills.
-
-### 📌 Featured Projects
-
-> 🚧 More projects coming soon...
+* 🎨 Responsive UI development
+* 🌐 Modern JavaScript
+* 💨 Tailwind CSS
+* 🧩 Component-based development
+* 🔧 Git & GitHub workflows
+* 🚀 Building and deploying modern web applications
 
 ---
 
